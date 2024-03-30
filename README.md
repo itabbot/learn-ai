@@ -1,1 +1,1 @@
-# learn-ai
+# Learn [AI](./records/ai)
