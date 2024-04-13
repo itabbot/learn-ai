@@ -33,11 +33,10 @@
 
 ## 3. 应用场景
 
-<!-- 行业、领域 -->
-<!-- 系统、服务、工具 -->
+人工智能是一种通用的技术，具有广泛的应用。参见 [人工智能的应用>>](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
 
 ## 4. 权威资源
 
 百科： [英文维基](https://en.wikipedia.org/wiki/Artificial_intelligence) / [中文维基](https://zh.wikipedia.org/wiki/人工智能) / [百度百科](https://baike.baidu.com/item/人工智能/9180)  
-历史： [人工智能的历史](https://en.wikipedia.org/wiki/History_of_artificial_intelligence) / [人工智能发展时间线](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence) / [人工智能的进展](https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence)  
+发展： [人工智能的历史](https://en.wikipedia.org/wiki/History_of_artificial_intelligence) / [人工智能发展时间线](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence) / [人工智能的进展](https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence) / [人工智能的应用](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)  
 组织： [OpenAI](https://openai.com) / [DeepMind](https://deepmind.google)
