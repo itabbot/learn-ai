@@ -1,1 +1,1 @@
-# Learn [AI](./records/AI)
+# 学习[人工智能](./records/人工智能)
