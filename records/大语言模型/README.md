@@ -40,3 +40,5 @@ GPT 系列模型： 2018 年，OpenAI 推出了第一个基于 Transformer 架�
 自动摘要： 自动文本摘要生成，提取文本的关键信息和主题，生成简明扼要的摘要内容。
 
 ## 4. 权威资源
+
+百科： [英文维基](https://en.wikipedia.org/wiki/Large_language_model) / [中文维基](https://zh.wikipedia.org/wiki/大型语言模型) / [百度百科](https://baike.baidu.com/item/大语言模型)
