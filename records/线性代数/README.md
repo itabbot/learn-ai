@@ -52,13 +52,6 @@
 
 ## 1.5. 尝试
 
-<!--
-英文维基：https://en.wikipedia.org/
-中文维基：https://zh.wikipedia.org/
-百度百科：https://baike.baidu.com/
-GPT
--->
-
 # 2. 按需学习
 
 # 3. 系统学习
