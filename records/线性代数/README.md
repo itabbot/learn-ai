@@ -47,15 +47,8 @@
 
 ## 1.4. 权威资源
 
-<!-- 网站、文档、书籍 -->
-<!-- 人物、组织 -->
-
-<!--
-英文维基：https://en.wikipedia.org/
-中文维基：https://zh.wikipedia.org/
-百度百科：https://baike.baidu.com/
-GPT
--->
+百科： [英文维基](https://en.wikipedia.org/wiki/Linear_algebra) / [中文维基](https://zh.wikipedia.org/wiki/线性代数) / [数学百科全书](https://encyclopediaofmath.org/index.php?title=Linear_algebra) / [百度百科](https://baike.baidu.com/item/线性代数/800)  
+课程： [线性代数的本质](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) / [沉浸式线性代数](https://immersivemath.com/ila/index.html) / [数学世界](https://mathworld.wolfram.com/topics/LinearAlgebra.html) / [可汗学院](https://www.khanacademy.org/math/linear-algebra) / [麻省理工课件](https://ocw.mit.edu/search/?t=Linear+Algebra)
 
 ## 1.5. 尝试
 
