@@ -49,7 +49,7 @@
 ## 1.4. 权威资源
 
 百科： [英文维基](https://en.wikipedia.org/wiki/Probability) / [中文维基](https://zh.wikipedia.org/wiki/概率) / [数学百科全书](https://encyclopediaofmath.org/wiki/Probability) / [百度百科](https://baike.baidu.com/item/概率/828845)  
-教程： [统计数据基础](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) / [可汗学院](https://www.khanacademy.org/math/statistics-probability)
+教程： [可汗学院](https://www.khanacademy.org/math/statistics-probability)
 
 ## 1.5. 尝试
 
