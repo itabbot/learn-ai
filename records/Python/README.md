@@ -36,7 +36,7 @@ Python 是由 Guido van Rossum 在荷兰科学与信息中心（CWI, Centrum Wis
     -   2008 年，Python 3.0 发布，这一版本引入了许多重大变化，不向后兼容 Python 2.x 系列。改进了语法和标准库，以简化语言并清除历史遗留问题。Python 3.0 的发布标志着 Python 语言的一个重要里程碑。
     -   2020 年，Python 2.7 停止支持（EOL，End of Life），所有用户和开发者被鼓励迁移到 Python 3.x。
 
-Guido van Rossum，被社区称为 Python 语言的 “终身仁慈独裁者”（Benevolent Dictator For Life, BDFL）：
+Guido van Rossum 被社区称为 Python 语言的 “终身仁慈独裁者”（Benevolent Dictator For Life, BDFL）：
 
 -   仁慈： Guido van Rossum 以友善和负责任的方式引导社区。他注重社区的意见，并尽量做出对大多数人有利的决定。
 -   独裁： 尽管 Python 是一个开源项目，并且有大量贡献者和活跃的社区，Guido van Rossum 作为语言的创始人和主要设计者，对 Python 的设计和发展有最终的决策权。
