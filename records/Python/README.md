@@ -23,7 +23,7 @@ Python 是由 Guido van Rossum 在荷兰科学与信息中心（CWI, Centrum Wis
 
 版本历程概要：
 
--   起源
+-   Python 起源
     -   1989 年圣诞节期间开始构思。
     -   1991 年，Python 0.9.0 版本发布，这是 Python 的第一个公开版本。
 -   Python 1.x
