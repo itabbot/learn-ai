@@ -86,7 +86,7 @@ Guido van Rossum 被社区称为 Python 语言的 “终身仁慈独裁者”（
 
 ## 1.4. 权威资源
 
-官方： [官方网站](https://www.python.org) / [官方文档](https://www.python.org/doc) / [软件包](https://pypi.org) / [在线 shell](https://www.python.org/shell/)  
+官方： [官方网站](https://www.python.org) / [官方文档](https://www.python.org/doc) / [软件包](https://pypi.org) / [在线 shell](https://www.python.org/shell/) / [GitHub](https://github.com/python)  
 教程： [官方开发者指南](https://devguide.python.org/) / [realpython](https://realpython.com/) / [programiz](https://www.programiz.com/python-programming) / [w3schools](https://www.w3schools.com/python/)  
 其它： [awesome-python](https://github.com/vinta/awesome-python)
 
