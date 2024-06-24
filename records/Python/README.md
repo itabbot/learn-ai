@@ -92,6 +92,10 @@ Guido van Rossum 被社区称为 Python 语言的 “终身仁慈独裁者”（
 
 ## 1.5. 尝试
 
+略
+
 # 2. 按需学习
 
 # 3. 系统学习
+
+-   [Python.Lang 初学者教程](https://github.com/itabbot/learn-python/tree/main/systematic/python-lang-beginner)
